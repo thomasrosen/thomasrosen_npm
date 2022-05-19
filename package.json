@@ -1,0 +1,15 @@
+{
+  "name": "thomasrosen",
+  "description": "Just to have my name.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomasrosen/thomasrosen_npm.git"
+  },
+  "keywords": [],
+  "author": "Thomas Rosen",
+  "bugs": {
+    "url": "https://github.com/thomasrosen/thomasrosen_npm/issues"
+  },
+  "homepage": "https://thomasrosen.qiekub.org"
+}
